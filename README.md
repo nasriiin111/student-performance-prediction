@@ -10,9 +10,7 @@ Student Performance Dataset
 - Study Hours
 - Attendance Percentage
 - Age
-- Math Score
-- Science Score
-- English Score
+- overall score
 
 ## Exploratory Data Analysis
 Key findings:
